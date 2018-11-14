@@ -24,7 +24,7 @@ Instead of building, you could install [this apk](https://github.com/tmytokai/Pi
 1. Enable USB debugging mode on your phone.
 1. Connect the phone to the PC.
 1. Push the run button on Android Studio to install PixelOFF.
-1. Disnable USB debugging mode on the phone.
+1. Disable USB debugging mode on the phone.
 
 ## How to use
 
