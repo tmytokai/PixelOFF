@@ -32,3 +32,13 @@ Instead of building, you could install [this apk](https://github.com/tmytokai/Pi
 1. Turn "Use service" on.
 1. Tap PixelOFF to turn the screen off.
 
+### update:
+
+I noticed the [Accessibility Menu](https://support.google.com/accessibility/android/answer/9078941?hl=en) of Android Pie.
+But when I activated the menu, "3 dots menu" 
+
+![threedots](https://github.com/tmytokai/PixelOFF/blob/master/threedots.png)
+
+that some legacy apps are using disappeared from the navigation bar...
+
+So I still need to use PixelOFF.
